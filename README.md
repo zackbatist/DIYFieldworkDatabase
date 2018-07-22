@@ -8,11 +8,11 @@ Please refer to the diagram for further details regarding hardware configuration
 
 ![DIYDatabaseDiagram.png](https://github.com/zackbatist/DIYFieldworkDatabase/raw/master/DIYDatabaseDiagram.png)
 
-This documents how I put things together and made things work. Please get in touch if you have any questions!
+This repo documents how I put things together and made things work. Please get in touch if you have any questions!
 
 - Zack Batist
-- @mtl_zack on twitter
-- zackbatist on github
+- [@mtl_zack](https://twitter.com/mtl_zack/) on twitter
+- [zackbatist](https://github.com/zackbatist/) on github
 
 R code and SQL snippets coming soon!
 
@@ -21,7 +21,7 @@ Insert microSD card into the adapter and insert into a laptop.
 
 Format the microSD card as FAT32 using an SD Card Formatter tool (https://www.sdcard.org/downloads/formatter_4/).
 
-Etch the Rasbian disk image to the SD card using Etcher (https://etcher.io/).
+Etch the Rasbian disk image to the SD card using Etcher (https://etcher.io/). Raspbian is available at the Rasoberry Pi downloads page (https://www.raspberrypi.org/downloads/raspbian/).
 
 Configure the OS to enable SSH on first boot.
 ```
