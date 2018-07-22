@@ -6,6 +6,8 @@ Moreover, this is a very inexpensive and portable setup. In terms of hardware, y
 
 Please refer to the diagram for further details regarding hardware configuration and overall setup.
 
+![DIYDatabaseDiagram.png](https://github.com/zackbatist/DIYFieldworkDatabase/raw/master/DIYDatabaseDiagram.png)
+
 This documents how I put things together and made things work. Please get in touch if you have any questions!
 
 - Zack Batist
